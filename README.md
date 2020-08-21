@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-My name is Richard Wang. I'm a full-stack web developer specializing in all things Javascript. I primarily work in web development (Node.js, React, SQL, etc.), I have experience deploying to Heroku, Netlify, Vercel, AWS, Linode, and Github Pages.
+My name is Richard Wang. I am a Front-End developer based in Los Angeles, California. Using HTML, CSS, and JavaScript, I build interactive and responsive websites.
 
-I value high-quality design, performance, UX, and believe strongly in open-source technology and the free and open internet. 
+Through my passion and knowledge in web development, I enjoy creating personal projects improving people's daily productivity and quality of life. In my spare time, I enjoy exploring, hiking, and appreciating small things in life. 
